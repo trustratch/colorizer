@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/6183dcec9e7e984b5bf102d5c9cfc0d1290173d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_90ef79753d066e93f72e21bedd086c8e6a0070f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/annotations-13.0_8a108c5674cd111f8244e3f7b689f4416fb28214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/b5aff0442a857c2687633138a539ea9ac7b5a84a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_349f5aec99963c73b00b73c1537229821f31692c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/5644f31b8b416e5a2da14f819632b782fb7b87dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_bc75fcbffb601625cd828013fa26329b4b1a6b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/6534b83100c314e54d6b98cb2512fd4e6a6b1c2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_32d82908307f85d040ca9a9d21fb04e3d0ad968f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/3c1421606b95e9f6a582b95a7f2ccf2136c34e2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_7c9bdbea770bc71896fb6f9091557a3a2c9076a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/50a0dece0725a1f79fbfde719f8ddb418af1a5dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_0d93082d3bd06588b960aa9c5678a91047b4dd75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/8789f60058b20fed0e1ce9dc63d6ed33ea427cc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_08842515355831a4f20c607a4ccc47ddc6a7805f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/5e06c1c1c6fdbefe9290de7468c32f4b5f648b92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_d307fcfe030e87ec22265c7b5ac2b29ee6b38e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-4/3f5f1498bdbb9611cb1413f794b3a3a5a6edef34/kotlin-stdlib-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f5f1498bdbb9611cb1413f794b3a3a5a6edef34">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.2-4_1c990919fc4c9efe3e150017165de9eae8479d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/9e14f73cf4f2dcd5a1c5cf8b396303fbe9b06082/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_d3dac272d900c3e91cc45d2680099065d10be70f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/c0279008fbad2b059cbe157888e9a59a4051e13d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_77e778cf9d973e1dd02a5b9afc5607db162ee28d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/a5a2d5e0f1c859132614cd0a0ed0385ca281f9f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_b82e1e7f5734cc59141a0b351efa5bf6c2940b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_804009760d536b40dd64d79de385f8f0efc15eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Trust/.android/build-cache/470dd48cc6163c35beed30af074305f61f9f3e43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Trust/Downloads/colorizer/app/build/intermediates/pre-dexed/debug/classes_566f1d6669856117517adeae67556fdb7ce8a844.jar" />
+    </item>
+
+</items>
