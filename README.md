@@ -33,7 +33,8 @@ Examle usage of colorizer on textviews
 ```
 
   ## Screenshot
-  
+  ![screen shot 2560-06-07 at 1 55 24 pm](https://user-images.githubusercontent.com/9884138/26866151-1a4ee426-4b8a-11e7-9256-47d620fb739c.png)
+
  ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
